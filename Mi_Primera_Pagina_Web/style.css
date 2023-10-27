@@ -1,0 +1,36 @@
+*{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+body{
+    background-color: #ffe8d6; 
+}
+
+header{
+    background-image: url(https://www.photoshopfreebrushes.com/wp-content/uploads/2015/06/orange-fruit-pattern-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    background-image: url(https://cdn.dribbble.com/users/891521/screenshots/11354917/media/4bee8094860a601ecd940b253371d5b5.jpeg);
+}
+
+p{
+    color: #81862f;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 12px;
+}
+h3{color:rgb(34, 160, 65)
+}
+.Titulo1{
+    color: #3dbace
+}
+#lista-ordenada{
+    color: red;
+}
+img{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
